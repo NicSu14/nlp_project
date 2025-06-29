@@ -1,0 +1,13 @@
+transformers~=4.52.4
+torch~=2.7.1
+numpy~=2.3.1
+scikit-learn~=1.7.0
+bs4~=0.0.2
+joblib~=1.5.1
+tld~=0.13.1
+whois~=1.20240129.2
+requests~=2.32.4
+beautifulsoup4~=4.13.4
+charset-normalizer~=3.4.2
+tqdm~=4.67.1
+IPy~=1.1
